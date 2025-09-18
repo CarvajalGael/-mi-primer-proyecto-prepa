@@ -9,9 +9,8 @@
 - **Especialidad:** [Programacion]  
 - **Institución:** [CETis61]  
 
-## 🖼️ Fotografía
-![Mi Foto](ruta/de/tu/foto.jpg)
-
+## 🖼️ Fotografía  
+![Mi Foto](gael.jpeg)
 
 # Creando tu cuenta y tu primer repositorio 
 Sigue estos pasos cuidadosamente: 
