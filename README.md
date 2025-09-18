@@ -10,6 +10,7 @@
 - **Institución:** [CETis61]  
 
 ## 🖼️ Fotografía  
-![Mi Foto](gael.jpeg)
+<img src="gael.jpeg" alt="Mi Foto" width="200">
+
 
 
